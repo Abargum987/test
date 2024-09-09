@@ -1,5 +1,3 @@
-# Sprint Projektet
+# Layout med Flexbox
 
-#Igor
-
-Her finder du vores sprint projekt...
+Øvelse i klassen.
